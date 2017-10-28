@@ -1,7 +1,9 @@
 # ADS1118 Arduino Library
 
 Created By: Colby Rome (cdr013@bucknell.edu).
+
 Later Updated By: Ward Prescott (erp006@bucknell.edu) on Mar 9, 2016 12:08 AM.
+
 Last Updated By: C Muller in October 2017.
 
 The last major edit changed conversions to single-sample (or low power) mode.
